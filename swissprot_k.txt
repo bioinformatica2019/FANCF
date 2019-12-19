@@ -1,0 +1,294 @@
+ID   FANCF_HUMAN             Reviewed;         374 AA.
+AC   Q9NPI8; Q52LM0;
+DT   10-OCT-2002, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   13-NOV-2019, entry version 157.
+DE   RecName: Full=Fanconi anemia group F protein;
+DE            Short=Protein FACF;
+GN   Name=FANCF;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Catarrhini; Hominidae; Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND INVOLVEMENT IN FANCF.
+RX   PubMed=10615118; DOI=10.1038/71626;
+RA   de Winter J.P., Rooimans M.A., van der Weel L., van Berkel C.G.M.,
+RA   de Groot J., Waisfisz Q., Pronk J.C., Arwert F., Mathew C.G.,
+RA   Scheper R.J., Hoatlin M.E., Buchwald M., Joenje H.;
+RT   "The Fanconi anaemia gene FANCF encodes a novel protein with homology
+RT   to ROM.";
+RL   Nat. Genet. 24:15-16(2000).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RX   PubMed=14702039; DOI=10.1038/ng1285;
+RA   Ota T., Suzuki Y., Nishikawa T., Otsuki T., Sugiyama T., Irie R.,
+RA   Wakamatsu A., Hayashi K., Sato H., Nagai K., Kimura K., Makita H.,
+RA   Sekine M., Obayashi M., Nishi T., Shibahara T., Tanaka T., Ishii S.,
+RA   Yamamoto J., Saito K., Kawai Y., Isono Y., Nakamura Y., Nagahari K.,
+RA   Murakami K., Yasuda T., Iwayanagi T., Wagatsuma M., Shiratori A.,
+RA   Sudo H., Hosoiri T., Kaku Y., Kodaira H., Kondo H., Sugawara M.,
+RA   Takahashi M., Kanda K., Yokoi T., Furuya T., Kikkawa E., Omura Y.,
+RA   Abe K., Kamihara K., Katsuta N., Sato K., Tanikawa M., Yamazaki M.,
+RA   Ninomiya K., Ishibashi T., Yamashita H., Murakawa K., Fujimori K.,
+RA   Tanai H., Kimata M., Watanabe M., Hiraoka S., Chiba Y., Ishida S.,
+RA   Ono Y., Takiguchi S., Watanabe S., Yosida M., Hotuta T., Kusano J.,
+RA   Kanehori K., Takahashi-Fujii A., Hara H., Tanase T.-O., Nomura Y.,
+RA   Togiya S., Komai F., Hara R., Takeuchi K., Arita M., Imose N.,
+RA   Musashino K., Yuuki H., Oshima A., Sasaki N., Aotsuka S.,
+RA   Yoshikawa Y., Matsunawa H., Ichihara T., Shiohata N., Sano S.,
+RA   Moriya S., Momiyama H., Satoh N., Takami S., Terashima Y., Suzuki O.,
+RA   Nakagawa S., Senoh A., Mizoguchi H., Goto Y., Shimizu F., Wakebe H.,
+RA   Hishigaki H., Watanabe T., Sugiyama A., Takemoto M., Kawakami B.,
+RA   Yamazaki M., Watanabe K., Kumagai A., Itakura S., Fukuzumi Y.,
+RA   Fujimori Y., Komiyama M., Tashiro H., Tanigami A., Fujiwara T.,
+RA   Ono T., Yamada K., Fujii Y., Ozaki K., Hirao M., Ohmori Y.,
+RA   Kawabata A., Hikiji T., Kobatake N., Inagaki H., Ikema Y., Okamoto S.,
+RA   Okitani R., Kawakami T., Noguchi S., Itoh T., Shigeta K., Senba T.,
+RA   Matsumura K., Nakajima Y., Mizuno T., Morinaga M., Sasaki M.,
+RA   Togashi T., Oyama M., Hata H., Watanabe M., Komatsu T.,
+RA   Mizushima-Sugano J., Satoh T., Shirai Y., Takahashi Y., Nakagawa K.,
+RA   Okumura K., Nagase T., Nomura N., Kikuchi H., Masuho Y., Yamashita R.,
+RA   Nakai K., Yada T., Nakamura Y., Ohara O., Isogai T., Sugano S.;
+RT   "Complete sequencing and characterization of 21,243 full-length human
+RT   cDNAs.";
+RL   Nat. Genet. 36:40-45(2004).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND VARIANT LEU-320.
+RG   NIEHS SNPs program;
+RL   Submitted (FEB-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA].
+RC   TISSUE=Brain, and Skin;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA
+RT   project: the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [5]
+RP   PARTIAL PROTEIN SEQUENCE, IDENTIFICATION BY MASS SPECTROMETRY, X-RAY
+RP   CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 156-357, MUTAGENESIS OF LEU-209;
+RP   PHE-251; TYR-287; LEU-289; PHE-339; VAL-341 AND LEU-344, AND SUBUNIT.
+RX   PubMed=17082180; DOI=10.1074/jbc.m608356200;
+RA   Kowal P., Gurtan A.M., Stuckert P., D'Andrea A.D., Ellenberger T.;
+RT   "Structural determinants of human FANCF protein that function in the
+RT   assembly of a DNA damage signaling complex.";
+RL   J. Biol. Chem. 282:2047-2055(2007).
+RN   [6]
+RP   SUBUNIT, AND SUBCELLULAR LOCATION.
+RX   PubMed=11063725; DOI=10.1093/hmg/9.18.2665;
+RA   de Winter J.P., van der Weel L., de Groot J., Stone S., Waisfisz Q.,
+RA   Arwert F., Scheper R.J., Kruyt F.A.E., Hoatlin M.E., Joenje H.;
+RT   "The Fanconi anemia protein FANCF forms a nuclear complex with FANCA,
+RT   FANCC and FANCG.";
+RL   Hum. Mol. Genet. 9:2665-2674(2000).
+RN   [7]
+RP   IDENTIFICATION IN A COMPLEX WITH FANCA; FANCC; FANCE; FANCG AND FANCL.
+RX   PubMed=12724401; DOI=10.1128/mcb.23.10.3417-3426.2003;
+RA   Meetei A.R., Sechi S., Wallisch M., Yang D., Young M.K., Joenje H.,
+RA   Hoatlin M.E., Wang W.;
+RT   "A multiprotein nuclear complex connects Fanconi anemia and Bloom
+RT   syndrome.";
+RL   Mol. Cell. Biol. 23:3417-3426(2003).
+RN   [8]
+RP   IDENTIFICATION IN A COMPLEX WITH FANCA; FANCB; FANCC; FANCE; FANCG AND
+RP   FANCL.
+RX   PubMed=15502827; DOI=10.1038/ng1458;
+RA   Meetei A.R., Levitus M., Xue Y., Medhurst A.L., Zwaan M., Ling C.,
+RA   Rooimans M.A., Bier P., Hoatlin M., Pals G., de Winter J.P., Wang W.,
+RA   Joenje H.;
+RT   "X-linked inheritance of Fanconi anemia complementation group B.";
+RL   Nat. Genet. 36:1219-1224(2004).
+RN   [9]
+RP   IDENTIFICATION IN A COMPLEX WITH FANCA; FANCB; FANCC; FANCE; FANCG;
+RP   FANCL AND FANCM.
+RX   PubMed=16116422; DOI=10.1038/ng1626;
+RA   Meetei A.R., Medhurst A.L., Ling C., Xue Y., Singh T.R., Bier P.,
+RA   Steltenpool J., Stone S., Dokal I., Mathew C.G., Hoatlin M.,
+RA   Joenje H., de Winter J.P., Wang W.;
+RT   "A human ortholog of archaeal DNA repair protein Hef is defective in
+RT   Fanconi anemia complementation group M.";
+RL   Nat. Genet. 37:958-963(2005).
+RN   [10]
+RP   INTERACTION WITH HES1, AND SUBCELLULAR LOCATION.
+RX   PubMed=18550849; DOI=10.1182/blood-2008-04-152710;
+RA   Tremblay C.S., Huang F.F., Habi O., Huard C.C., Godin C., Levesque G.,
+RA   Carreau M.;
+RT   "HES1 is a novel interactor of the Fanconi anemia core complex.";
+RL   Blood 112:2062-2070(2008).
+CC   -!- FUNCTION: DNA repair protein that may operate in a postreplication
+CC       repair or a cell cycle checkpoint function. May be implicated in
+CC       interstrand DNA cross-link repair and in the maintenance of normal
+CC       chromosome stability (By similarity). {ECO:0000250}.
+CC   -!- SUBUNIT: Belongs to the multisubunit FA complex composed of FANCA,
+CC       FANCB, FANCC, FANCE, FANCF, FANCG, FANCL/PHF9 and FANCM. The
+CC       complex is not found in FA patients. In complex with FANCA, FANCG
+CC       and FANCL, but not with FANCC, nor FANCE, interacts with HES1;
+CC       this interaction may be essential for the stability and nuclear
+CC       localization of FA core complex proteins.
+CC       {ECO:0000269|PubMed:11063725, ECO:0000269|PubMed:12724401,
+CC       ECO:0000269|PubMed:15502827, ECO:0000269|PubMed:16116422,
+CC       ECO:0000269|PubMed:17082180, ECO:0000269|PubMed:18550849}.
+CC   -!- INTERACTION:
+CC       O15360:FANCA; NbExp=5; IntAct=EBI-81589, EBI-81570;
+CC       O15287:FANCG; NbExp=4; IntAct=EBI-81589, EBI-81610;
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:11063725,
+CC       ECO:0000269|PubMed:18550849}.
+CC   -!- DISEASE: Fanconi anemia complementation group F (FANCF)
+CC       [MIM:603467]: A disorder affecting all bone marrow elements and
+CC       resulting in anemia, leukopenia and thrombopenia. It is associated
+CC       with cardiac, renal and limb malformations, dermal pigmentary
+CC       changes, and a predisposition to the development of malignancies.
+CC       At the cellular level it is associated with hypersensitivity to
+CC       DNA-damaging agents, chromosomal instability (increased chromosome
+CC       breakage) and defective DNA repair. {ECO:0000269|PubMed:10615118}.
+CC       Note=The disease is caused by mutations affecting the gene
+CC       represented in this entry.
+CC   -!- WEB RESOURCE: Name=Atlas of Genetics and Cytogenetics in Oncology
+CC       and Haematology;
+CC       URL="http://atlasgeneticsoncology.org/Genes/FANCFID294.html";
+CC   -!- WEB RESOURCE: Name=Fanconi Anemia Mutation Database;
+CC       URL="http://www2.rockefeller.edu/fanconi/genes/jumpf";
+CC   -!- WEB RESOURCE: Name=NIEHS-SNPs;
+CC       URL="http://egp.gs.washington.edu/data/fancf/";
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF181995; AAF26298.1; -; mRNA.
+DR   EMBL; AF181994; AAF26297.1; -; mRNA.
+DR   EMBL; AK023153; BAB14433.1; -; mRNA.
+DR   EMBL; AY928335; AAX09677.1; -; Genomic_DNA.
+DR   EMBL; BC047028; AAH47028.1; -; mRNA.
+DR   EMBL; BC093867; AAH93867.1; -; mRNA.
+DR   EMBL; BC101807; AAI01808.1; -; mRNA.
+DR   CCDS; CCDS7857.1; -.
+DR   RefSeq; NP_073562.1; NM_022725.3.
+DR   PDB; 2IQC; X-ray; 2.40 A; A=156-357.
+DR   PDBsum; 2IQC; -.
+DR   SMR; Q9NPI8; -.
+DR   BioGrid; 108483; 20.
+DR   CORUM; Q9NPI8; -.
+DR   IntAct; Q9NPI8; 11.
+DR   MINT; Q9NPI8; -.
+DR   STRING; 9606.ENSP00000330875; -.
+DR   BindingDB; Q9NPI8; -.
+DR   ChEMBL; CHEMBL2157856; -.
+DR   MoonDB; Q9NPI8; Predicted.
+DR   iPTMnet; Q9NPI8; -.
+DR   PhosphoSitePlus; Q9NPI8; -.
+DR   BioMuta; FANCF; -.
+DR   DMDM; 23821547; -.
+DR   EPD; Q9NPI8; -.
+DR   jPOST; Q9NPI8; -.
+DR   MassIVE; Q9NPI8; -.
+DR   MaxQB; Q9NPI8; -.
+DR   PaxDb; Q9NPI8; -.
+DR   PeptideAtlas; Q9NPI8; -.
+DR   PRIDE; Q9NPI8; -.
+DR   ProteomicsDB; 82022; -.
+DR   Ensembl; ENST00000327470; ENSP00000330875; ENSG00000183161.
+DR   GeneID; 2188; -.
+DR   KEGG; hsa:2188; -.
+DR   UCSC; uc001mql.2; human.
+DR   CTD; 2188; -.
+DR   DisGeNET; 2188; -.
+DR   GeneCards; FANCF; -.
+DR   GeneReviews; FANCF; -.
+DR   HGNC; HGNC:3587; FANCF.
+DR   MalaCards; FANCF; -.
+DR   MIM; 603467; phenotype.
+DR   MIM; 613897; gene.
+DR   neXtProt; NX_Q9NPI8; -.
+DR   OpenTargets; ENSG00000183161; -.
+DR   Orphanet; 84; Fanconi anemia.
+DR   PharmGKB; PA28001; -.
+DR   eggNOG; ENOG410IKQV; Eukaryota.
+DR   eggNOG; ENOG4111WMC; LUCA.
+DR   GeneTree; ENSGT00390000005623; -.
+DR   InParanoid; Q9NPI8; -.
+DR   KO; K10893; -.
+DR   OMA; WARYLRH; -.
+DR   OrthoDB; 1404593at2759; -.
+DR   PhylomeDB; Q9NPI8; -.
+DR   TreeFam; TF332957; -.
+DR   Reactome; R-HSA-6783310; Fanconi Anemia Pathway.
+DR   SIGNOR; Q9NPI8; -.
+DR   ChiTaRS; FANCF; human.
+DR   EvolutionaryTrace; Q9NPI8; -.
+DR   GeneWiki; FANCF; -.
+DR   GenomeRNAi; 2188; -.
+DR   Pharos; Q9NPI8; -.
+DR   PRO; PR:Q9NPI8; -.
+DR   Proteomes; UP000005640; Chromosome 11.
+DR   Bgee; ENSG00000183161; Expressed in 182 organ(s), highest expression level in forebrain.
+DR   ExpressionAtlas; Q9NPI8; baseline and differential.
+DR   Genevisible; Q9NPI8; HS.
+DR   GO; GO:0043240; C:Fanconi anaemia nuclear complex; IDA:UniProtKB.
+DR   GO; GO:0005654; C:nucleoplasm; IDA:HPA.
+DR   GO; GO:0006974; P:cellular response to DNA damage stimulus; IBA:GO_Central.
+DR   GO; GO:0036297; P:interstrand cross-link repair; TAS:Reactome.
+DR   Gene3D; 1.25.40.490; -; 1.
+DR   InterPro; IPR035428; FANCF.
+DR   InterPro; IPR038505; FANCF_C_sf.
+DR   PANTHER; PTHR14449; PTHR14449; 1.
+DR   Pfam; PF11107; FANCF; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Direct protein sequencing;
+KW   DNA damage; DNA repair; Fanconi anemia; Nucleus; Polymorphism;
+KW   Reference proteome.
+FT   CHAIN         1    374       Fanconi anemia group F protein.
+FT                                /FTId=PRO_0000087188.
+FT   VARIANT     295    295       V -> I (in dbSNP:rs7103293).
+FT                                /FTId=VAR_050988.
+FT   VARIANT     320    320       P -> L (in dbSNP:rs45451294).
+FT                                {ECO:0000269|Ref.3}.
+FT                                /FTId=VAR_022270.
+FT   MUTAGEN     209    209       L->R: Reduced monoubiquitination of
+FT                                FANCD2. {ECO:0000269|PubMed:17082180}.
+FT   MUTAGEN     251    251       F->R: Reduced monoubiquitination of
+FT                                FANCD2. {ECO:0000269|PubMed:17082180}.
+FT   MUTAGEN     287    287       Y->A: Strongly reduced monoubiquitination
+FT                                of FANCD2; when associated with A-289; A-
+FT                                339; A-341 and A-344.
+FT                                {ECO:0000269|PubMed:17082180}.
+FT   MUTAGEN     289    289       L->A: Strongly reduced monoubiquitination
+FT                                of FANCD2; when associated with A-287; A-
+FT                                339; A-341 and A-344.
+FT                                {ECO:0000269|PubMed:17082180}.
+FT   MUTAGEN     339    339       F->A: Strongly reduced monoubiquitination
+FT                                of FANCD2; when associated with A-287; A-
+FT                                289; A-341 and A-344.
+FT                                {ECO:0000269|PubMed:17082180}.
+FT   MUTAGEN     341    341       V->A: Strongly reduced monoubiquitination
+FT                                of FANCD2; when associated with A-287; A-
+FT                                289; A-339 and A-344.
+FT                                {ECO:0000269|PubMed:17082180}.
+FT   MUTAGEN     344    344       L->A: Strongly reduced monoubiquitination
+FT                                of FANCD2; when associated with A-287; A-
+FT                                289; A-339 and A-341.
+FT                                {ECO:0000269|PubMed:17082180}.
+FT   HELIX       160    174       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       186    195       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       198    209       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       235    243       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       245    254       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       257    266       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       268    270       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       271    283       {ECO:0000244|PDB:2IQC}.
+FT   STRAND      286    288       {ECO:0000244|PDB:2IQC}.
+FT   TURN        289    292       {ECO:0000244|PDB:2IQC}.
+FT   STRAND      293    295       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       304    315       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       319    335       {ECO:0000244|PDB:2IQC}.
+FT   HELIX       346    354       {ECO:0000244|PDB:2IQC}.
+SQ   SEQUENCE   374 AA;  42254 MW;  1F295CD1FBE6ED7D CRC64;
+     MESLLQHLDR FSELLAVSST TYVSTWDPAT VRRALQWARY LRHIHRRFGR HGPIRTALER
+     RLHNQWRQEG GFGRGPVPGL ANFQALGHCD VLLSLRLLEN RALGDAARYH LVQQLFPGPG
+     VRDADEETLQ ESLARLARRR SAVHMLRFNG YRENPNLQED SLMKTQAELL LERLQEVGKA
+     EAERPARFLS SLWERLPQNN FLKVIAVALL QPPLSRRPQE ELEPGIHKSP GEGSQVLVHW
+     LLGNSEVFAA FCRALPAGLL TLVTSRHPAL SPVYLGLLTD WGQRLHYDLQ KGIWVGTESQ
+     DVPWEELHNR FQSLCQAPPP LKDKVLTALE TCKAQDGDFE VPGLSIWTDL LLALRSGAFR
+     KRQVLGLSAG LSSV
+//
